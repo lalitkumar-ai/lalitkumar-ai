@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lalit-kumar-1941272a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lalit-kumar-1941272a0/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/lalitk200003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/lalitk200003" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lalit-kumar-1941272a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lalit-kumar-1941272a0/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/lalitk200003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/lalitk200003" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/lalitk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/lalitk2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/lalitk17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/lalitk17/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@lalitk200003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@lalitk200003" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/lalitk17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/lalitk17/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@lalitk200003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@lalitk200003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
