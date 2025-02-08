@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-ai&show_icons=true&locale=en" alt="lalitkumar-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-ai&" alt="lalitkumar-ai" /></p>
+<h3>Feel free to check out my repositories and connect with me. Let's build something amazing together! 😄</h3>
