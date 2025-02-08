@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalit Kumar</h1>
-<h3 align="center">A passionate third-year Computer Science student with a keen interest in machine learning, artificial intelligence, hardware engineering, and software engineering. I love learning new technologies and building projects that solve real-world problems. ## About Me - 🔭 Current Focus: Full stack web development, competitive programming, and diving deeper into machine learning and AI. - 🌱 Currently Learning: Advanced React, C++, Python, and exploring the Go language. - 💼 Career Goal: To become a proficient software engineer, contributing to impactful projects and pushing the boundaries of technology. - 🎮 Hobbies: Learning new concepts, developing side projects, and enjoying anime in my free time, with gaming</h3>
+<h3 align="center">I'm a passionate third-year Computer Science student who loves exploring the exciting world of technology. Whether it's machine learning, artificial intelligence, hardware engineering, or software engineering, I'm always eager to dive in, learn new things, and build projects that make a real impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitkumar-ai&label=Profile%20views&color=0e75b6&style=flat" alt="lalitkumar-ai" /> </p>
 
